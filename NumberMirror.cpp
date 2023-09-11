@@ -1,3 +1,7 @@
+// PROBLEM
+// take an input for an variable and output it.
+
+
 #include <iostream>
 using namespace std;
 
